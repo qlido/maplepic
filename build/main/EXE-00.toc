@@ -112,7 +112,7 @@
  [],
  False,
  False,
- 1635258271,
+ 1635341850,
  [('runw.exe',
    'c:\\users\\jason\\pycharmprojects\\pythonproject1\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
    'EXECUTABLE')])
